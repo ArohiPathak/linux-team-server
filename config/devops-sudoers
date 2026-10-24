@@ -1,0 +1,2 @@
+# Allow members of group 'devops' to execute any administrative command
+%devops ALL=(ALL:ALL) ALL
