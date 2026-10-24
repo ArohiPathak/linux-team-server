@@ -1,0 +1,5 @@
+username,group,ssh_public_key
+rahul,developers,ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGo4k1234dummyrahul rahul@company.internal
+neha,testers,ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJe8m5678dummyneha neha@company.internal
+arun,devops,ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILp9q9012dummyarun arun@company.internal
+sneha,interns,ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKr3s3456dummysneha sneha@company.internal
